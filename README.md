@@ -66,5 +66,5 @@
 
 [![](https://github-readme-stats.vercel.app/api?username=ppoohh25&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/ppoohh25)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=ppoohh25&theme=material-palenight)](https://github.com/ppoohh25)
-[![](https://activity-graph.herokuapp.com/graph?username=ppoohh25&custom_title=ppoohh25%27s%20Contribution%20Graph&theme=tokyonight)](https://github.com/ppoohh25)
+[![](https://activity-graph.herokuapp.com/graph?username=ppoohh25&custom_title=ppoohh25%27s%20Contribution%20Graph&theme=material-palenight)](https://github.com/ppoohh25)
 </div>
