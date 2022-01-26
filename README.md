@@ -9,9 +9,6 @@
 
 <h2 align="center"><u><b>Knowledge Base</b></u></h2>
 
-<p align="center">
-  <img style="width:26rem; height:auto" src="https://giphy.com/gifs/smu-ellipsis-smuellipsis-USV0ym3bVWQJJmNu3N"/>
-</p>
 
 <h3 align="center">Languages</h3>
 <p align="center">
@@ -29,6 +26,10 @@
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
       alt="css3"/>
+  </a>
+   <a href="https://www.w3schools.com/CPP/default.asp" target="_blank">
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
+"/>
   </a>
 </p>
 
