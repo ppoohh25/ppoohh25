@@ -55,7 +55,7 @@
 </div>
 
 ----
-##SNAKE
+<h3>SNAKE</h3>
 
 ![snake gif](https://github.com/ppoohh25/ppoohh25/blob/output/github-contribution-grid-snake.gif)
 
