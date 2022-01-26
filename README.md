@@ -28,8 +28,7 @@
       alt="css3"/>
   </a>
    <a href="https://www.w3schools.com/CPP/default.asp" target="_blank">
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
-"/>
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   </a>
 </p>
 
