@@ -56,13 +56,6 @@
 
 ----
 
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/ppoohh25/ppoohh25/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
-
-----
-
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
