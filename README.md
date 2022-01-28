@@ -3,6 +3,7 @@
 
 
 - 🏫 I’m studying at Mary Vitthaya Kabinburi School
+- 🏫 Next year I will study at King Mongkut's Institute of Technology Ladkrabang
 
 ---
 
