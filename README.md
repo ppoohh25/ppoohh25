@@ -2,8 +2,7 @@
 <h3 font-size="20" align="center">I'm interested in computer programing</h3>
 
 
-- 🏫 I’m studying at Mary Vitthaya Kabinburi School
-- 🏫 Next year I will study at King Mongkut's Institute of Technology Ladkrabang
+- 🏫 I’m studying Electronics Engineering at King Mongkut's Institute of Technology Ladkrabang
 
 ---
 
