@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sadayu Dachdachasunan<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
-<h3 font-size="20" align="center">I'm interested in computer programing</h3>
+<h3 font-size="20" align="center">I'm interested in Digital Design and FPGA</h3>
 
 
 - 🏫 I’m studying Electronics Engineering at King Mongkut's Institute of Technology Ladkrabang
