@@ -32,13 +32,6 @@
   </a>
 </p>
 
-<h3 align="center">Cloud & Hosting:</h3>
-<p align="center">
-  <a href="https://heroku.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white"
-      alt="heroku"/> 
-  </a> 
-</p>
 
 
 
